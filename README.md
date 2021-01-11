@@ -1,74 +1,17 @@
-# Coding Interview University
+# My 2021 ~~Resolutions~~ Study Plan Project
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
->
-> The items listed here will prepare you well for a technical interview at just about any software company,
-> including the giants: Amazon, Facebook, Google, and Microsoft.
->
-> *Best of luck to you!*
+I found this list of study topics by jwasham, who spent 8-10 hours per day studying for 8 months, and once complete, landed a job at Google. Over the past year, I have been working on developing my own similar list, and working my way through those topics. Rather than re-create the wheel by continuing to develop my own 'curriculum,' I'm taking on this list. 
 
-<details>
-<summary>Translations:</summary>
+I'll be keeping a progress journal in this repo to help me track my progress. This is new for me, but I have decided to try to commit to this for one main reason. While I never lack motivation to dive into learning a new skill, I often feel like there is just such an enormous amount to learn that I am constantly pulled in different directions try to keep up (or catch up). I'm, at present, 80% complete a web developer bootcamp, 47% complete a SQL databases course, 50% through the intermediate Kaggle machine learning trainings, into my 4th course in the Johns Hopkins Data Science Specialization on Coursera, have purchased (and not yet started) courses on Network+ and Security+ certifications, Android development, and ethical hacking, and just last week completed an intro course on VR App development. So you can see, I NEED A PLAN! 
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
+I'm not big into resolutions, but as a Project Manager, I've decided to think about resolutions in terms of projects. To me, resolutions are like wishes - we put them out in the world and kind of just _will_ / _hope_ that they come true. Instead, projects are intentionally designed, monitored, managed, and ultimately _completed_. Projects have goals with metrics and, yep, progress reports, so that it is easy to identify a project that is in jeopardy of missing its targets, as well as praise the project for its successes. 
 
-</details>
-
-<details>
-<summary>Translations in progress:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-
-</details>
-
-## What is it?
-
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
-
-This is meant for **new software engineers** or those switching from
-software/web development to software engineering (where computer science knowledge is required). If you have
-many years of experience and are claiming many years of software engineering experience, expect a harder interview.
-
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
-
-If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
+So, for 2021, I resolve to design a study plan, tailor the curriculum to my needs, establish learning milestones, celebrate my wins, and STAY FOCUSED! 
 
 ---
 
 ## Table of Contents
-
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
+If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
@@ -182,23 +125,6 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Papers](#papers)
 
 ---
-
-## Why use it?
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
-
-It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check progress.
 
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
