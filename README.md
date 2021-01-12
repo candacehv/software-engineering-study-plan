@@ -399,12 +399,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [x ] **How computers process a program:**
-    - [x ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [x ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [x ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [x ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [x ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+- [x] **How computers process a program:** Completed: 1/11/21
+    - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+    - [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
