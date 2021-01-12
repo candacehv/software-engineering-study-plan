@@ -11,7 +11,7 @@ This is my progress journal. I plan to use this journal to help keep me accounta
 
 **What I Learned Today:**
 1. How to 'strikethrough' text in github markdown. 
-  1. Use "~~text~~"
+  1. Use `~~text~~`
 
 <January 11, 2021>
 **Learning Activity:** Today I created this repo. This, I think, will be a big step in the direction of helping me focus my energy. I'm planning to document my 'learning activities' here, as well as any thoughts, 'aha' moments, frustrations, interests, etc. that I can use for motivation or to help me identify areas I enjoy and plan to dive into deeper. 
