@@ -11,7 +11,8 @@ This is my progress journal. I plan to use this journal to help keep me accounta
 
 <details>
   <summary>January 11, 2021</summary>
-  **What I Learned Today:**
+  
+  **What I Learned Today:** 
   1. How to 'strikethrough' text in github markdown. 
     1. Use `~~text~~`
 
