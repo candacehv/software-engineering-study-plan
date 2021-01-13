@@ -8,7 +8,21 @@ This is my progress journal. I plan to use this journal to help keep me accounta
 
 
 ## Progress Entries
+Hours spent learning: 4.75
 
+<details>
+  <summary>January 12, 2021</summary>
+  
+  **Learning Activity:** Module 1 of "Exploratory Data Analysis" - JHU Data Specialization (via Coursera)
+  
+  **Comments:** Today I completed the videos for 2 of the 3 lessons for this module. The 5 priniciples of analytic graphics and the 3 plotting systems (base, lattice, ggplot2). So far so good. We're now 4 courses in and have gotten through some of the basics of R, and I'm excited to get to start graphing!
+  
+  **Learning Activity:** Flashcards and cheatsheets download
+  
+  **Comments:** I spent time earlier this evening collecting a few 'cheatsheets' that I will use to study common methods of the most popular R packages. I also set myself up with Anki for creating flashcards for studying. Onward and upward!
+  
+</details>
+  
 <details>
   <summary>January 11, 2021</summary>
   
@@ -39,3 +53,4 @@ This is my progress journal. I plan to use this journal to help keep me accounta
     
 **Comments:** Love these videos, Carrie Ann presents the inner workings of computer chips in a very accessible way, working through the details of a basic computer's architecture before abstracting each item and showing it's interactions with other parts. (I did have to watch several parts more than once, but it is not _too_ difficult to follow along. These videos perfectly recapped some of the information I learned in my undergrad level Computer Architcture course.) Admittedly, computer architecture really doesn't interest me, but I certainly have respect for the ingenuity!  
 </details>
+
